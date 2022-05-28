@@ -1,7 +1,7 @@
 import React from 'react';
 
 const schedule = {
-  "title": "CS Courses for 2018-2019",
+  "title": "CSS Courses for 2018-2019",
   "courses": {
     "F101" : {
       "id" : "F101",
